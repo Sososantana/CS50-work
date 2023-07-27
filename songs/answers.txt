@@ -1,0 +1,19 @@
+ -- write a SQL query list
+
+
+    -- write SQL query list of names and sobgs in order of tempo
+
+
+    -- write SQL list of names in top 5 longest in decending order
+
+
+    -- write SQL for valence greater and dancability as well as engery
+
+
+    -- write average energy of post
+
+    -- all names of songs by post
+
+    -- select energy of songs by drake
+
+    -- songs by other artist
