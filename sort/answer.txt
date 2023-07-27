@@ -1,0 +1,20 @@
+sort1 uses: Bubble sort
+
+How do you know?: There is a difference in time taken for random 50000 and sorted 50000 being sorted
+
+Random 50000: 8.533s
+Sorted 50000: 1.544s
+
+sort2 uses: Merge Sort
+
+How do you know?: Time taken for random 50000 to be sorted is the short compared to the rest
+
+Random 50000: 1.338s
+Sorted 50000: 1.654s
+
+sort3 uses: Selection sort
+
+How do you know?: The time for random 50000 and sorted 50000 to be sorted is roughly the same
+
+Random 50000: 4.126s
+Sorted 50000: 4.219s
